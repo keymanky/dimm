@@ -4,14 +4,6 @@ body {
   padding-bottom: 20px;
 }
 
-/* Custom page footer */
-/*.footer {
-  padding-top: 19px;
-  color: #777;
-  border-top: 1px solid #e5e5e5;
-}*/
-
-
 /* Main marketing message and sign up button */
 .jumbotron {
   text-align: center;
@@ -23,20 +15,55 @@ body {
   font-size: 21px;
 }
 
+.footer {
+  text-align: center;
+  border-bottom: 1px solid #e5e5e5;
+  color: #9FF781;
+  background-color: #333; 
+  max-width: 700px; 
+}
 .cabecera{
-  height: 100px;
-  padding-top: 1px;
+  height: 120px;
+  max-width: 700px;
+  background-color: #333;
+  color: #9FF781;
+  padding: 10px;
+}
+
+.negrita{
+  font-weight: bold;
 }
 
 .contenido{
   height: 500px;
 }
 
-.footer{
-  height: 100px;
-  padding-top: 1px;  
+#menu a {
+color: #9FF781;
 }
 
+#faq li{
+  text-align: justify;
+}
+#faq p{
+  font-size: 10px;
+  text-align: justify;
+}
+.carousel-caption{
+  background-color: rgb(159,247,129); opacity: 0.5;
+  color: black;
+  width: auto;
+}
+#parcial img{
+  max-width: 300px;
+}
+#parcial{
+  height: 400px;
+  overflow: auto;  
+}
+#socios img{
+  max-width: 400px;
+}
 /* Customize container */
 @media (min-width: 768px) {
   .container {

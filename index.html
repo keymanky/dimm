@@ -1,6 +1,6 @@
 
 <!DOCTYPE html>
-<html lang="ES">
+<html lang="ES" ng-app="dimmtv" ng-controller="dimmtv">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -12,15 +12,23 @@
 
     <title>Theme Template for Bootstrap</title>
 
+
+    <!-- Angular -->
+    <script src="assets/libs/angular.min.js"></script>
+    <script src="assets/libs/angular-routes.js"></script>
+    <script src="rutasdimmtv.js"></script>             
+    <script src="app.js"></script>         
+    <script src="middledimmtv.js"></script>         
+    <script src="servicesdimmtv.js"></script>  
+    <script src="assets/libs/ui-bootstrap-tpls-0.13.0.min.js"></script>     
     <!-- Bootstrap core, theme, js and CSS and js-->
     <link href="assets/libs/bootstrap-3.3.4-dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="assets/libs/bootstrap-3.3.4-dist/css/bootstrap-theme.min.css" rel="stylesheet">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="assets/libs/jquery.min.js"></script>
     <script src="assets/libs/bootstrap-3.3.4-dist/js/bootstrap.min.js"></script>    
     <!-- Nuestra plantilla -->
     <link href="assets/css/template.css" rel="stylesheet">
-    <!-- Angular -->
-    <script src="assets/libs/angular.min.js"></script>    
+
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -29,13 +37,26 @@
     <![endif]-->
   </head>
 
-  <body role="document" ng-app>
+  <body>
 
 
   <header>
-      <div class="jumbotron cabecera">
-        <h1>Aquí el banner</h1>
-      </div>    
+    <center>
+      <div class="cabecera">
+      <table>
+        <tr>
+          <td>
+            <img src="imgs/logo.png" height="100px">          
+          </td>
+          <td>
+            &nbsp;
+          <td>
+            <h3 class="negrita">Digital Imagen and Web Programming</h3>            
+          </td>
+        </tr>
+      </table>
+      </div>      
+    </center>    
   </header>
 
 
@@ -56,51 +77,55 @@
           </div>
 
 
-          <div class="navbar-collapse collapse">
+          <div id="menu" class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
               <!-- Principal -->
-              <li class="active"><a href="#">Principal</a></li>
+              <li ng-class="tab_activa == 1 ? 'active': 'false' " ng-click="activar(1)"><a href="#/principal">Principal</a></li>
               <!-- Servicios -->
-              <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Servicios<span class="caret"></span></a>
-                <ul class="dropdown-menu" role="menu">
+              <li class="dropdown" ng-class="tab_activa == 2 ? 'active': 'false' " ng-click="activar(2)">
+                <a href="#/servicios" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Servicios<span class="caret"></span></a>
+<!--                 <ul class="dropdown-menu" role="menu">
                   <li><a href="#">Desarrollo de software</a></li>
                   <li><a href="#">Diseño web</a></li>
                   <li><a href="#">Soluciones informáticas</a></li>
-                </ul>
+                </ul> -->
               </li>
               <!-- Precios -->
-              <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Precios<span class="caret"></span></a>
-                <ul class="dropdown-menu" role="menu">
+              <li class="dropdown" ng-class="tab_activa == 3 ? 'active': 'false' " ng-click="activar(3)">
+                <a href="#/precios" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Precios<span class="caret"></span></a>
+<!--                 <ul class="dropdown-menu" role="menu">
                   <li><a href="#">Hosting</a></li>
                   <li><a href="#">Desarrollo</a></li>
-                  <li><a href="#">Servicio técnico</a></li>
-                </ul>
+                  <li><a href="#/servicos">Servicio técnico</a></li>
+                </ul> -->
               </li>
               <!-- Socios -->
-              <li><a href="#">Socios</a></li>
-              <li><a href="#">Clientes</a></li>              
-              <li><a href="#">Ayuda</a></li>                 
-              <li><a href="#">Acerca de</a></li>                 
+              <li ng-class="tab_activa == 4 ? 'active': 'false' " ng-click="activar(4)"><a href="#/socios">Socios</a></li>
+              <li ng-class="tab_activa == 5 ? 'active': 'false' " ng-click="activar(5)"><a href="#/clientes">Clientes</a></li>              
+              <li ng-class="tab_activa == 6 ? 'active': 'false' " ng-click="activar(6)"><a href="#/ayuda">Ayuda</a></li>                 
+              <li ng-class="tab_activa == 7 ? 'active': 'false' " ng-click="activar(7)"><a href="#/acerca">Acerca de</a></li>                 
             </ul>
           </div><!--/.nav-collapse -->
         </div>
       </nav>
 
-      <!-- Container -->
+      <!-- CONTENIDO PRINCIPAL DE CADA PAGINA -->
       <div class="jumbotron contenido">
-        <h1>Contenido principal</h1>
-        <p>bla bla bla bla.</p>
+        <div ng-view>
+          
+        </div>
       </div>
 
-    </div> <!-- /container -->
+    </div> <!-- FIN CONTENIDO PRINCIPAL DE CADA PAGINA -->
 
-  <footer>
-      <div class="jumbotron footer">
-        <h2>Aquí el pie de página</h2>
-      </div>  
-  </footer>
+    <center>
+      <footer>
+          <div class="footer">
+            <h5 class="negrita">&copy;DimmTV Derechos reservados {{ date | date:'yyyy'}} | Jorge Salgado | Elihu Hernández | Omar Rodriguez </h5>
+          </div>  
+      </footer> 
+    </center>
+
   
   </body>
 </html>

@@ -1,0 +1,1 @@
+angular.module('dimmtv',['rutasdimmtv','middledimmtv','miservicio']);
