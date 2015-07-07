@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="ES" ng-app="dimmtv" ng-controller="dimmtv">
   <head>
@@ -10,7 +9,7 @@
     <meta name="author" content="">
     <link rel="icon" href="#">
 
-    <title>Theme Template for Bootstrap</title>
+    <title>DimmTV</title>
 
 
     <!-- Angular -->
@@ -73,8 +72,8 @@
               <!-- Principal -->
               <li ng-class="tab_activa == 1 ? 'active': 'false' " ng-click="activar(1)"><a href="#/principal">Principal</a></li>
               <!-- Servicios -->
-              <li class="dropdown" ng-class="tab_activa == 2 ? 'active': 'false' " ng-click="activar(2)">
-                <a href="#/servicios" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Servicios<span class="caret"></span></a>
+              <li ng-class="tab_activa == 2 ? 'active': 'false' " ng-click="activar(2)">
+                <a href="#/servicios" role="button" aria-expanded="false">Servicios</a>
 <!--                 <ul class="dropdown-menu" role="menu">
                   <li><a href="#">Desarrollo de software</a></li>
                   <li><a href="#">Diseño web</a></li>
@@ -82,8 +81,8 @@
                 </ul> -->
               </li>
               <!-- Precios -->
-              <li class="dropdown" ng-class="tab_activa == 3 ? 'active': 'false' " ng-click="activar(3)">
-                <a href="#/precios" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Precios<span class="caret"></span></a>
+              <li ng-class="tab_activa == 3 ? 'active': 'false' " ng-click="activar(3)">
+                <a href="#/precios" role="button" aria-expanded="false">Precios</a>
 <!--                 <ul class="dropdown-menu" role="menu">
                   <li><a href="#">Hosting</a></li>
                   <li><a href="#">Desarrollo</a></li>
