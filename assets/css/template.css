@@ -14,7 +14,9 @@ body {
   padding: 14px 24px;
   font-size: 21px;
 }
-
+.jumbotron{
+  padding: 0px;
+}
 .footer {
   text-align: center;
   border-bottom: 1px solid #e5e5e5;
@@ -36,6 +38,7 @@ body {
 
 .contenido{
   height: 500px;
+  overflow: auto;
 }
 
 #menu a {
@@ -44,6 +47,8 @@ color: #9FF781;
 
 #faq li{
   text-align: justify;
+  font-size: 10px;
+  list-style-type: disc;
 }
 #faq p{
   font-size: 10px;
@@ -61,7 +66,7 @@ color: #9FF781;
   height: 400px;
   overflow: auto;  
 }
-#socios img{
+.socios img{
   max-width: 400px;
 }
 /* Customize container */
