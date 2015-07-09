@@ -101,8 +101,8 @@
 
       <!-- CONTENIDO PRINCIPAL DE CADA PAGINA -->
       <div class="jumbotron contenido">
-        <div ng-view>
-          
+        <div ng-class="tab_activa == 1 ? 'slider': 'noslider' ">
+            <div ng-view></div>
         </div>
       </div>
 

@@ -4,23 +4,23 @@ angular.module('middledimmtv',['ui.bootstrap'])
 .controller('dimmtv', [ '$scope', 'dimm_servicios' , function ($scope, dimm_servicios){
 
 
-	$scope.myInterval = 3000;
+	$scope.myInterval = 30000;
 	var slides = $scope.slides = [];
-	$scope.tab_activa = "";
+	$scope.tab_activa = 1;
 
 	$scope.slides.push({
 		image: 'imgs/principal1.jpg',
-		text: 'Vea la demostración de nuestros proyectos.',
+		text: 'Excelentes planes de almacenamiento web y diseño de tu pagina personal, corporativa o de comercio electrónico.',
 		url: 'http://www.google.com.mx'
 	});
 	$scope.slides.push({
 		image: 'imgs/principal2.jpg',
-		text: 'Conozca quienes somos, a los que nos dedicamos y como integramos las tecnologias en su negocio.',
+		text: 'Promociona tu negocio en internet mediante tu propia tienda virtual; además de tener presencia en redes sociales.',
 		url: 'https://www.facebook.com/dimmTV'
 	});
 	$scope.slides.push({
 		image: 'imgs/principal3.jpg',
-		text: 'Vea el porque es importante mejorar sus procesos y reducir costos con estas tecnologias.',
+		text: 'Ahorra en gastos de papelería y ayuda al medio ambiente generando menos desechos usando facturas electrónicas y otros recursos digitales.',
 		url: 'https://www.flickr.com/'
 	});
 

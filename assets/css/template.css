@@ -2,6 +2,7 @@
 body {
   padding-top: 20px;
   padding-bottom: 20px;
+  font-size: 14px;  
 }
 
 /* Main marketing message and sign up button */
@@ -47,16 +48,16 @@ color: #9FF781;
 
 #faq li{
   text-align: justify;
-  font-size: 10px;
+  font-size: 14px;
   list-style-type: disc;
 }
 #faq p{
-  font-size: 10px;
+  font-size: 14px;
   text-align: justify;
 }
 .carousel-caption{
   background-color: rgb(159,247,129); opacity: 0.5;
-  color: black;
+  color: #F4FA58;
   width: auto;
 }
 #parcial img{
@@ -68,6 +69,12 @@ color: #9FF781;
 }
 .socios img{
   max-width: 400px;
+}
+.slider{
+  padding-top: 100px;
+}
+.noslider{
+  padding-top: 0px;
 }
 /* Customize container */
 @media (min-width: 768px) {
