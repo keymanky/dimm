@@ -10,17 +10,17 @@ angular.module('middledimmtv',['ui.bootstrap'])
 
 	$scope.slides.push({
 		image: 'imgs/principal1.jpg',
-		text: 'Excelentes planes de almacenamiento web y diseño de tu pagina personal, corporativa o de comercio electrónico.',
+		text: 'Promociona tu negocio en internet mediante tu propia tienda virtual; además de tener presencia en redes sociales',
 		url: 'http://www.google.com.mx'
 	});
 	$scope.slides.push({
 		image: 'imgs/principal2.jpg',
-		text: 'Promociona tu negocio en internet mediante tu propia tienda virtual; además de tener presencia en redes sociales.',
+		text: 'Ahorra en gastos de papelería y ayuda al medio ambiente generando menos desechos usando facturas electrónicas y otros recursos digitales.',
 		url: 'https://www.facebook.com/dimmTV'
 	});
 	$scope.slides.push({
 		image: 'imgs/principal3.jpg',
-		text: 'Ahorra en gastos de papelería y ayuda al medio ambiente generando menos desechos usando facturas electrónicas y otros recursos digitales.',
+		text: 'Excelentes planes de almacenamiento web y diseño de tu pagina personal, corporativa o de comercio electrónico.',
 		url: 'https://www.flickr.com/'
 	});
 

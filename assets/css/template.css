@@ -57,7 +57,8 @@ color: #9FF781;
 }
 .carousel-caption{
   background-color: rgb(159,247,129); opacity: 0.5;
-  color: #F4FA58;
+  color: black;
+  font-weight: bold;
   width: auto;
 }
 #parcial img{
@@ -71,7 +72,7 @@ color: #9FF781;
   max-width: 400px;
 }
 .slider{
-  padding-top: 100px;
+  padding-top: 30px;
 }
 .noslider{
   padding-top: 0px;
