@@ -4,7 +4,10 @@ body {
   padding-bottom: 20px;
   font-size: 14px;  
 }
-
+.imagen_chica{
+  height: 100px;
+  width: 150px;
+}
 /* Main marketing message and sign up button */
 .jumbotron {
   text-align: center;
@@ -76,6 +79,10 @@ color: #9FF781;
 }
 .noslider{
   padding-top: 0px;
+}
+.texto_tabla{
+  width: 500px;
+  padding: 10px;
 }
 /* Customize container */
 @media (min-width: 768px) {
