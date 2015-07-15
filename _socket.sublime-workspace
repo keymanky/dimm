@@ -1,0 +1,1041 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"vi",
+				"victimas"
+			],
+			[
+				"al",
+				"aleatorio"
+			],
+			[
+				"juego",
+				"juegoiniciado"
+			],
+			[
+				"ju",
+				"juegoiniciado"
+			],
+			[
+				"vic",
+				"victima"
+			],
+			[
+				"m",
+				"mensaje"
+			],
+			[
+				"se",
+				"seccion"
+			],
+			[
+				"pre",
+				"pregunta_a_mostrar"
+			],
+			[
+				"num",
+				"num_preguntas"
+			],
+			[
+				"id_Se",
+				"id_seccion"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"secci",
+				"id_seccion_actual"
+			],
+			[
+				"sec",
+				"secuencia"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"preg",
+				"pregunta_incisos"
+			],
+			[
+				"inci",
+				"incisos"
+			],
+			[
+				"data",
+				"data2"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"hi",
+				"height"
+			],
+			[
+				"uu",
+				"uultima"
+			],
+			[
+				"inf",
+				"informacion"
+			],
+			[
+				"info",
+				"info_pregunta"
+			],
+			[
+				"u",
+				"ultima_pregunta_contestada_id"
+			],
+			[
+				"ul",
+				"ultima_pregunta_contestada_id"
+			],
+			[
+				"in",
+				"incisos_en_pregunta"
+			],
+			[
+				"incisos",
+				"incisos_en_pregunta"
+			],
+			[
+				"id_",
+				"id_rol"
+			],
+			[
+				"id",
+				"id_rol"
+			],
+			[
+				"CON",
+				"console"
+			],
+			[
+				"json",
+				"json2"
+			],
+			[
+				"nu",
+				"nueva"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"sal",
+				"salta_a_la_seccion_id"
+			],
+			[
+				"sa",
+				"salta_a_la_seccion_id"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"do",
+				"double"
+			],
+			[
+				"bord",
+				"border-style"
+			],
+			[
+				"border",
+				"border-width"
+			],
+			[
+				"FON",
+				"font-size"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"borde-c",
+				"border-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"local",
+				"localStorage"
+			],
+			[
+				"inc",
+				"inciso"
+			],
+			[
+				"tipo",
+				"tipo"
+			],
+			[
+				"apeli",
+				"apellido_paterno"
+			],
+			[
+				"calle",
+				"call_user_func"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"jsone",
+				"json_decode"
+			],
+			[
+				"ape",
+				"apellido_materno"
+			],
+			[
+				"codigo_",
+				"codigo_postal"
+			],
+			[
+				"entid",
+				"entidad_federativa"
+			],
+			[
+				"rol",
+				"rolseleccionadopermisos"
+			],
+			[
+				"ro",
+				"rolseleccionadopermisos"
+			],
+			[
+				"pan",
+				"pantalla_de_instruccion"
+			],
+			[
+				"est",
+				"estatus"
+			],
+			[
+				"ru",
+				"ruta_video"
+			],
+			[
+				"ruta",
+				"ruta_imagen"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"contra",
+				"contrasenia"
+			],
+			[
+				"d",
+				"dictionary"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"jor",
+				"jorgitoFunc"
+			],
+			[
+				"mod",
+				"module"
+			],
+			[
+				"S",
+				"Servicio"
+			],
+			[
+				"un",
+				"undefined"
+			],
+			[
+				"email",
+				"search_by_email"
+			],
+			[
+				"sus",
+				"success"
+			],
+			[
+				"su",
+				"success"
+			],
+			[
+				"par",
+				"params"
+			],
+			[
+				"Par",
+				"params"
+			],
+			[
+				"APP",
+				"appData"
+			],
+			[
+				"w",
+				"website"
+			],
+			[
+				"con",
+				"contacto"
+			],
+			[
+				"fin",
+				"findOne"
+			],
+			[
+				"mo",
+				"modeloapp"
+			],
+			[
+				"usu",
+				"usuario"
+			],
+			[
+				"app",
+				"apps"
+			],
+			[
+				"ap",
+				"apps"
+			],
+			[
+				"fi",
+				"findbyid"
+			],
+			[
+				"Uus",
+				"UsuarioCliente"
+			],
+			[
+				"usua",
+				"usuarios"
+			],
+			[
+				"usuario",
+				"usuario-client"
+			],
+			[
+				"re",
+				"res"
+			],
+			[
+				"Usu",
+				"UsuarioCliente"
+			],
+			[
+				"newUu",
+				"newUsuario"
+			],
+			[
+				"r",
+				"req"
+			],
+			[
+				"fecha",
+				"fecha_nacimiento"
+			],
+			[
+				"dele",
+				"delegacion"
+			],
+			[
+				"fec",
+				"fecha_nacimiento"
+			],
+			[
+				"newpA",
+				"newPassEncrypted"
+			],
+			[
+				"us",
+				"usuario"
+			],
+			[
+				"ne",
+				"newPass"
+			],
+			[
+				"new",
+				"newPass"
+			],
+			[
+				"coin",
+				"coinciden"
+			],
+			[
+				"contras",
+				"contraseñas"
+			],
+			[
+				"comp",
+				"comparacion"
+			],
+			[
+				"b",
+				"bcrypt"
+			],
+			[
+				"genrate",
+				"generateHash"
+			],
+			[
+				"conso",
+				"console"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"Uu",
+				"Usuario"
+			],
+			[
+				"de",
+				"delete	grunt.file.delete"
+			],
+			[
+				"ex",
+				"exec"
+			],
+			[
+				"s",
+				"status"
+			],
+			[
+				"bo",
+				"body"
+			],
+			[
+				"find",
+				"findOneAndUpdate"
+			],
+			[
+				"Se",
+				"Server"
+			],
+			[
+				"er",
+				"err"
+			],
+			[
+				"e",
+				"express"
+			],
+			[
+				"confrm",
+				"confirmacion"
+			],
+			[
+				"fe",
+				"fecha_creacion"
+			],
+			[
+				"por",
+				"portal"
+			],
+			[
+				"retr",
+				"return"
+			],
+			[
+				"va",
+				"validador	validador"
+			],
+			[
+				"wa",
+				"watch"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"key",
+				"key_password"
+			],
+			[
+				"no",
+				"nombre"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"vend",
+				"vendedor"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "com",
+		"selected_items":
+		[
+			[
+				"com",
+				"Toggle Comment"
+			],
+			[
+				"co	",
+				"Toggle Comment"
+			],
+			[
+				"comme	",
+				"Toggle Comment"
+			],
+			[
+				"reide",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"min",
+				"Minify::User File Settings"
+			],
+			[
+				"r",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Prototype"
+			],
+			[
+				"ide	",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"var	",
+				"Set Syntax: Java Properties"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"php",
+				"Snippet: do … while …"
+			],
+			[
+				"",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print 'Please restart Sublime Text to finish installation'",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print 'Please restart Sublime Text to finish installation' "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/dimm",
+		"/C/xampp/htdocs/dimm/imgs",
+		"/C/xampp/htdocs/dimm/pages"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/dimm/pages/clientes.html",
+		"/C/xampp/htdocs/dimm/index.html",
+		"/C/Users/Perla Melgoza/Downloads/banner_trans.png",
+		"/C/Users/Perla Melgoza/Documents/My Adobe Captivate Projects/Plataforma E Learnig/assets/js/CPM.js",
+		"/C/Users/Perla Melgoza/Documents/My Adobe Captivate Projects/Plataforma E Learnig/index.html",
+		"/C/Users/Perla Melgoza/Documents/My Adobe Captivate Projects/Plataforma E Learnig/goodbye.html",
+		"/C/Users/Perla Melgoza/Dropbox/sicud.sql",
+		"/C/Users/Perla Melgoza/Dropbox/storyline/story.html",
+		"/C/xampp/htdocs/CLONADOS/brute/server.js",
+		"/C/xampp/htdocs/CLONADOS/gdfv1/server.js",
+		"/C/xampp/htdocs/CLONADOS/sandbox2/server.js",
+		"/C/xampp/htdocs/CLONADOS/sandbox/server.js",
+		"/C/xampp/htdocs/CLONADOS/portal/server.js",
+		"/C/xampp/htdocs/gdf_demo/server.js",
+		"/C/xampp/htdocs/gdf_demo/app/controllers/socket.js",
+		"/C/xampp/htdocs/gdf_demo/package.json",
+		"/C/xampp/htdocs/CLONADOS/sandbox2/package.json",
+		"/C/xampp/htdocs/CLONADOS/sandbox2/driver.js",
+		"/C/xampp/htdocs/CLONADOS/sandbox2/createadmin.js",
+		"/C/xampp/htdocs/CLONADOS/sandbox2/config.js",
+		"/C/xampp/htdocs/CLONADOS/sandbox/driver.js",
+		"/C/xampp/htdocs/CLONADOS/sandbox/package.json",
+		"/C/xampp/htdocs/CLONADOS/sandbox/npm-debug.log",
+		"/C/xampp/htdocs/utils/test_rss/gulpfile.js",
+		"/C/xampp/htdocs/gdf_demo/app/routes/registro.js",
+		"/C/xampp/htdocs/gdf_demo/app/models/registro.js",
+		"/C/xampp/htdocs/utils/test_rss/server.js",
+		"/C/xampp/htdocs/utils/test_rss/package.json",
+		"/C/xampp/htdocs/utils/test_rss/config.js",
+		"/C/xampp/htdocs/gdf_demo/registro.json",
+		"/C/xampp/htdocs/gdf_demo/generate.js",
+		"/C/xampp/htdocs/utils/test_rss/api/controller/users.js",
+		"/C/xampp/htdocs/gdf_demo/node_modules/socket.io/node_modules/engine.io/node_modules/ws/index.js",
+		"/C/xampp/htdocs/gdf_demo/cert.crt",
+		"/C/xampp/htdocs/gdf_demo/imagenes.json",
+		"/C/xampp/htdocs/gdf_demo/placa64.txt",
+		"/C/xampp/htdocs/gdf_demo/ubicaciones.json",
+		"/C/xampp/htdocs/giss/public/pages/joven/contestar.html",
+		"/C/xampp/htdocs/giss/public/controllers/joven.js",
+		"/C/xampp/htdocs/giss/public/pages/joven/index.html",
+		"/C/xampp/htdocs/viddeo/index.html",
+		"/C/Users/Perla Melgoza/Downloads/ng-media-master/example/index.html",
+		"/C/Users/Perla Melgoza/Downloads/ng-media-master/src/video.js",
+		"/C/Users/Perla Melgoza/Downloads/ng-media-master/example/partials/video.html",
+		"/C/xampp/htdocs/pruebas/index.html",
+		"/C/xampp/htdocs/pruebas/webm/Pregunta1.mp4",
+		"/C/xampp/htdocs/giss/public/pages/joven/demo.html",
+		"/C/Users/Perla Melgoza/Dropbox/TITULACION/_Base_Datos/Dump20150622_WEB_FINAL.sql",
+		"/C/xampp/htdocs/giss/public/pages/joven/ingresar_folio.html",
+		"/C/Users/Perla Melgoza/Desktop/exportar/Preguntas.xlsx",
+		"/C/Users/Perla Melgoza/Documents/dumps/Dump20150622_WEB_FINAL.sql",
+		"/C/xampp/htdocs/quiz/index.html",
+		"/C/xampp/htdocs/quiz/css/app.css",
+		"/C/xampp/htdocs/quiz/js/controllers/quiz.js",
+		"/C/Users/Perla Melgoza/Dropbox/TITULACION/_Colecciones/motor.json.postman_collection",
+		"/C/xampp/htdocs/quiz/fuegos.html",
+		"/C/Users/Perla Melgoza/Desktop/js-fireworks - JavaScript Fireworks - A Chrome Experiment_files/saved_resource",
+		"/C/xampp/htdocs/giss/api/app/routes/engine.php",
+		"/C/Users/Perla Melgoza/Downloads/fuegos1.html",
+		"/C/xampp/htdocs/giss/public/controllers/administrativo.js",
+		"/C/xampp/htdocs/giss/api/app/routes/pantalla.php",
+		"/C/xampp/htdocs/giss/public/services.js",
+		"/C/xampp/htdocs/giss/public/pages/joven/stylos.css",
+		"/C/Users/Perla Melgoza/Dropbox/TITULACION/_Codigo/ENGINE-18_06_2015.txt",
+		"/C/Users/Perla Melgoza/Desktop/quiz----/luces.html",
+		"/C/xampp/htdocs/giss/api/app/routes/seccion.php",
+		"/C/xampp/htdocs/giss/api/app/routes/cuestionario.php",
+		"/C/xampp/htdocs/giss/api/app/routes/rol.php",
+		"/C/xampp/htdocs/giss/api/app/routes/pregunta.php",
+		"/C/xampp/htdocs/giss/public/pages/excel/exportar.html",
+		"/C/xampp/htdocs/giss/api/app/routes/usuario.php",
+		"/C/xampp/htdocs/giss/public/controllers/administrador.js",
+		"/C/xampp/htdocs/giss/public/pages/administrativo/cuestionario.html",
+		"/C/xampp/htdocs/giss/public/controllers/inciso.js",
+		"/C/xampp/htdocs/giss/public/pages/incisos/incisos.html",
+		"/C/xampp/htdocs/giss/public/controllers/joven_routes.js",
+		"/C/xampp/htdocs/giss/api/index.php",
+		"/C/xampp/htdocs/giss/api/app/routes/inciso.php",
+		"/C/xampp/htdocs/giss/api/app/routes/entidadfederativa.php",
+		"/C/xampp/htdocs/giss/public/controllers/admin_routes.js",
+		"/C/xampp/htdocs/giss/public/controllers/inciso_routes.js",
+		"/C/xampp/htdocs/giss/public/controllers/pantallas.js",
+		"/C/xampp/htdocs/giss/public/controllers/pantallas_routes.js",
+		"/C/xampp/htdocs/giss/public/controllers/administrativo_routes.js",
+		"/C/xampp/htdocs/giss/public/pages/administrativo/seccion.html",
+		"/C/xampp/htdocs/giss/public/pages/administrador/usuarios.html",
+		"/C/xampp/htdocs/giss/public/pages/administrativo/pregunta.css",
+		"/C/xampp/htdocs/giss/public/pages/administrador/stylos.css",
+		"/C/xampp/htdocs/giss/public/pages/administrador/usuarios.css",
+		"/C/xampp/htdocs/giss/public/pages/administrativo/pregunta.html",
+		"/C/xampp/htdocs/giss/public/pages/administrativo/secciones.css",
+		"/C/xampp/htdocs/giss/public/pages/administrativo/stylos.css",
+		"/C/xampp/htdocs/giss/public/pages/administrativo/cuestionarios.css",
+		"/C/xampp/htdocs/giss/public/pages/incisos/stylos.css",
+		"/C/xampp/htdocs/giss/public/pages/pantallas/index.html",
+		"/C/xampp/htdocs/giss/public/app.js",
+		"/C/xampp/htdocs/giss/public/pages/pantallas/stylos.css",
+		"/C/xampp/htdocs/giss/public/pages/pantallas/pantallas.html",
+		"/C/xampp/htdocs/giss/public/pages/joven/joven.css",
+		"/C/xampp/htdocs/giss/public/pages/incisos/incisos.css",
+		"/C/xampp/htdocs/giss/public/pages/incisos/index.html",
+		"/C/xampp/htdocs/giss/public/pages/administrativo/index.html",
+		"/C/xampp/htdocs/portal/app/routes/api/client.js",
+		"/C/xampp/htdocs/giss/api/app/lib/Validator.php",
+		"/C/Users/Perla Melgoza/Documents/dumps/Dump20150601_1151.sql",
+		"/C/Users/Perla Melgoza/Documents/dumps/Dump20150601_1149.sql",
+		"/C/Users/Perla Melgoza/Dropbox/TITULACION/_Base_Datos/Dump20150601_1149.sql",
+		"/C/Users/Perla Melgoza/Dropbox/TITULACION/_Base_Datos/QUERYS_21_MAYO_2015.sql",
+		"/C/xampp/htdocs/giss/public/pages/administrador/index.html",
+		"/C/xampp/htdocs/giss/api/app/routes/usuario",
+		"/C/Users/Perla Melgoza/Dropbox/TITULACION/sicud.json.postman_collection",
+		"/C/xampp/htdocs/giss/api/config.php",
+		"/C/xampp/htdocs/giss/public/pages/administrador/events.js",
+		"/C/xampp/htdocs/giss/public/pages/administrador/roles.html",
+		"/C/xampp/htdocs/cotizador/api/app/routes/admin.php",
+		"/C/xampp/htdocs/giss/public/pages/administrador/test.html",
+		"/C/xampp/htdocs/giss/public/pages/administrador/vista1.html",
+		"/C/xampp/htdocs/giss/public/libs/angular-routes.js",
+		"/C/xampp/htdocs/oauth2orize/examples/express2/app.js",
+		"/C/Users/Perla Melgoza/Desktop/cuestionario_discapacidad_2.sql",
+		"/C/Users/Perla Melgoza/Documents/dumps/Dump20150522_1855.sql",
+		"/C/Users/Perla Melgoza/Desktop/cuestionario_discapacidad_2_ddl.sql",
+		"/C/Users/Perla Melgoza/Desktop/QUERYS_21_MAYO_2015.sql",
+		"/C/Users/Perla Melgoza/Documents/dumps/Dump20150522.sql",
+		"/C/Users/Perla Melgoza/AppData/Local/Temp/Temp1_base de datos.zip/cuestionario_discapacidad_2.sql",
+		"/C/Users/Perla Melgoza/AppData/Local/Temp/Temp1_base de datos.zip/cuestionario_discapacidad_2_ddl.sql",
+		"/C/Users/Perla Melgoza/Downloads/seguridad_msysql.sql",
+		"/C/Users/Perla Melgoza/Desktop/Claves Entidades Federativas y Municipios PEF 2012.txt"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\xampp\\htdocs\\giss",
+			"C:\\xampp\\htdocs\\portal",
+			"C:\\xampp\\htdocs\\_NODE\\placas_insert",
+			"C:\\xampp\\htdocs\\portal",
+			"C:\\xampp\\htdocs\\test",
+			"C:\\xampp\\htdocs\\evaluacion",
+			"C:\\xampp\\htdocs\\brutePer",
+			"C:\\xampp\\htdocs\\brute",
+			"C:\\xampp\\htdocs\\tickets",
+			"<open folders>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"multer",
+			"listen",
+			"https",
+			">\n",
+			"youtube",
+			"antare",
+			"						    </",
+			"CLOSE|",
+			"length",
+			"ng-class",
+			"limite",
+			"curl_setopt",
+			"ngclick",
+			"repetir\"",
+			"++;																											",
+			"ultima",
+			"data2",
+			"where('seccion')",
+			"salir\">",
+			"windo",
+			"windos",
+			"switch",
+			"centrado",
+			"introducir_texto",
+			"form",
+			"texto_a_mostrar",
+			"consol",
+			"consoloe",
+			"secuencia",
+			"	\n",
+			"usuario",
+			"crea",
+			"save",
+			"new",
+			"ir_a",
+			"select",
+			"%;\n",
+			"body",
+			"page-header",
+			"form",
+			"Sección a la que pertenece\n",
+			"Seccion",
+			"Activa",
+			"activa",
+			"select",
+			"delete.png",
+			"activar_desactivar_pregunta",
+			"select",
+			"editar",
+			"width",
+			"titulo",
+			"#",
+			"back",
+			"listaincisos",
+			"lista",
+			"post",
+			"img",
+			"panel",
+			"panel-heading",
+			"panel",
+			".panel-title",
+			"panel-primary",
+			"inciso",
+			"eliminar",
+			"cambiarseccion",
+			"CAMBIAR",
+			"editar",
+			"listaseccionagregar",
+			"cambiarseccion",
+			"editar",
+			"consultar_todos_incisos",
+			"select",
+			"validateString",
+			"pwd_valido",
+			"validateString",
+			"put",
+			"500",
+			"usuario",
+			"600px",
+			"localhost:8081",
+			"limpiar_rol",
+			"guardar_rol",
+			"agregar_permiso_rol",
+			"update",
+			"	<div>\n		<div class=\"page-header\">\n			<h1 class=\"titulo\">Configuraci&oacute;n de usuarios y roles</h1>\n			<!-- Tabs -->\n			<ul class=\"nav nav-tabs\" role=\"tablist\">\n				<li role=\"presentation\" ><a class=\"tab tab_activa\" href=\"#\" id=\"tabroles\">Roles</a></li>\n				<li role=\"presentation\"><a class=\"tab tab_desactiva\" href=\"#/users\">Usuarios</a></li>\n			</ul>\n			<hr class=\"separator_main\"></hr>\n			<!-- Fin Tabs -->\n\n			<div class=\"panel panel-primary\">\n				<div class=\"panel-heading\">\n					<h3 class=\"panel-title\">Nuevo / Editar</h3>\n				</div>\n\n				<!-- Agregar o editar rol -->\n				<form>\n					<div class=\"panel-body\">\n						<label for=\"exampleInputEmail1\">Nombre</label>\n						<input type=\"text\" class=\"form-control\" required=\"true\" value=\"{{rolseleccionado.nombre}}\">\n					</div>\n					<div class=\"panel-body\">\n						<label for=\"exampleInputEmail1\">Descripci&oacute;n</label>\n						<input type=\"text\" class=\"form-control\" required=\"true\" value=\"{{rolseleccionado.descripcion}}\">\n					</div>				\n					<button type=\"submit\" class=\"btn guardar\">Guardar</button>	\n					<button type=\"submit\" class=\"btn limpiar\">Limpiar</button>	\n				</form>	\n\n				<!-- Fin agregar o editar rol-->\n\n\n				<div class=\"panel-heading\">\n					<h3 class=\"panel-title\">Roles definidos</h3>\n				</div>\n\n				<div class=\"bs-example\" data-example-id=\"contextual-table\">\n					<!-- Lista de los roles existentes -->\n					<table class=\"table\">\n						<thead>\n							<tr>\n								<th>Nombre</th>\n								<th>Descripci&oacute;n</th>\n								<th>&nbsp;</th>							\n							</tr>\n						</thead>\n						<tbody>\n							<tr class=\"editable normal-{{$index}}\" ng-repeat=\"modelo in datos\" ng-click=\"editarRol($index, modelo.id)\">\n								<td>{{modelo.nombre}}</td>\n								<td>{{modelo.descripcion}}</td>\n								<td><img src=\"../../imgs/edit.png\"/ ></td>\n							</tr>\n						</tbody>\n					</table>\n					<!-- Fin de los roles existentes -->\n\n				</div>\n\n\n\n				<div class=\"panel-heading\">\n					<table>\n						<tr>\n							<td width=\"200px\"><h3 class=\"panel-title\">Permisos del rol</h3>\n							</td>\n							<td>\n								<select  ng-model=\"listapermisos.id\" ng-change=\"cambiarvalor(listapermisos.id)\">\n									<option value=\"\">&nbsp;</option>\n	 								<option value=\"{{listapermisos.id}}\" ng-model=\"listapermisos.id\" ng-repeat=\"listapermisos in permisos\">{{listapermisos.nombre}}</option>\n								</select>\n							</td>\n							<td><img src=\"../../imgs/add.png\" ng-click=\"agregar_permiso_rol(idrolseleccionado,idpermiso)\"/>\n							</td>\n						</tr>\n					</table>				\n				</div>\n\n				<div class=\"bs-example\" data-example-id=\"contextual-table\">\n					<!-- Lista de los roles existentes -->\n					<table class=\"table\">\n						<thead>\n							<tr>\n								<th>Descripci&oacute;n</th>\n								<th>&nbsp;</th>									\n							</tr>\n						</thead>\n						<tbody>\n							<tr ng-repeat=\"pr in rolseleccionadopermisos\">\n								<td>{{pr.nombre_permiso}}</td>\n								<td class=\"eliminable\"><img src=\"../../imgs/delete.png\" ng-click=\"eliminarPermiso(pr.id)\" /></td>													\n							</tr>\n						</tbody>\n					</table>\n					<!-- Fin de los roles existentes -->\n				</div>\n\n\n			</div>	\n		</div>\n	</div>",
+			"(\n",
+			"cambiarvalor",
+			"folio",
+			"50",
+			"otro",
+			"imagenes\\\\\\\\",
+			"DC",
+			"32",
+			"31",
+			"30",
+			"29",
+			"28",
+			"27",
+			"25",
+			"24",
+			"23",
+			"22",
+			"21",
+			"20",
+			"19",
+			"18",
+			"17",
+			"16",
+			"15",
+			"14",
+			"13",
+			"12",
+			"11",
+			"10",
+			"09",
+			"08",
+			"07",
+			"6",
+			"5",
+			"4",
+			"3",
+			"2",
+			"mydb",
+			"passport.use",
+			"authController",
+			"button",
+			"ip_host",
+			"{{"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"ng-click",
+			"repetir\" ngclick=\"repetir()\"",
+			"repetir ngclick=\"repetir()\"",
+			"salir\" ng-click=\"salir()\">",
+			"localhost",
+			"http://antares.iztacala.unam.mx/giss/sicud/Imagenes/",
+			"sicud",
+			"172.19.0.62",
+			"https://172.19.0.62",
+			"cabecera",
+			"ip_host",
+			"required: required",
+			"pyme"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "_socket.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"vive\\composer.lock"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 342.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
