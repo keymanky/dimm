@@ -20,10 +20,19 @@ angular.module('middledimmtv',['ui.bootstrap'])
 	});
 	$scope.slides.push({
 		image: 'imgs/principal3.jpg',
-		text: 'Excelentes planes de almacenamiento web y diseño de tu pagina personal, corporativa o de comercio electrónico.',
+		text: 'Hay una mejor forma de promocionar tu negocio, nosotros te apoyamos.',
 		url: 'https://www.flickr.com/'
 	});
-
+	$scope.slides.push({
+		image: 'imgs/principal4.jpg',
+		text: 'Ya deja de sufrir, nosotros te brindamos el apoyo que necesitas.',
+		url: 'https://www.flickr.com/'
+	});
+	$scope.slides.push({
+		image: 'imgs/principal5.jpg',
+		text: 'Brindamos servicios especializados para la micro y mediana empresa.',
+		url: 'https://www.flickr.com/'
+	});	
 	$scope.activar = function (argument) {
 		$scope.tab_activa= argument;
 	}
