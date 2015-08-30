@@ -24,7 +24,7 @@ body {
 .footer {
   text-align: center;
   border-bottom: 1px solid #e5e5e5;
-  color: #0E8E0A;
+  color: #9FF781;
   background-color: #333; 
   max-width: 700px; 
 }
@@ -32,7 +32,7 @@ body {
   height: 120px;
   max-width: 700px;
   background-color: #333;
-  color: #0E8E0A;
+  color: #9FF781;
   padding: 10px;
 }
 
@@ -46,7 +46,7 @@ body {
 }
 
 #menu a {
-color: #0E8E0A;
+color: #9FF781;
 }
 
 #faq li{
@@ -59,7 +59,7 @@ color: #0E8E0A;
   text-align: justify;
 }
 .carousel-caption{
-  background-color: #0E8E0A; opacity: 0.77;
+  background-color: rgb(159,247,129); opacity: 0.5;
   color: black;
   font-weight: bold;
   width: auto;
